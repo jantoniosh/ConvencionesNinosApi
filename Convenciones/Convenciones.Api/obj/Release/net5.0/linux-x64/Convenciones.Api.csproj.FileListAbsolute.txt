@@ -1,0 +1,145 @@
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\appsettings.Development.json
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\appsettings.json
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.deps.json
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.runtimeconfig.json
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.runtimeconfig.dev.json
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\ref\Convenciones.Api.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.pdb
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Identity.Client.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.OpenApi.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Newtonsoft.Json.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Newtonsoft.Json.Bson.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Runtime.Caching.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Dal.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Domain.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Service.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Dal.pdb
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Domain.pdb
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Service.pdb
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.AssemblyInfoInputs.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.AssemblyInfo.cs
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.CoreCompileInputs.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\scopedcss\bundle\Convenciones.Api.styles.css
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\staticwebassets\Convenciones.Api.StaticWebAssets.Manifest.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.RazorTargetAssemblyInfo.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.CopyComplete
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\ref\Convenciones.Api.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.pdb
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.genruntimeconfig.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.AssemblyReference.cache
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.xml
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Azure.Services.AppAuthentication.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.AspNetCore.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Extensions.Hosting.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Extensions.Logging.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Formatting.Compact.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Settings.Configuration.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.Console.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.Debug.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.File.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.MSSqlServer.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.PeriodicBatching.dll
+D:\coreApi\ProyectoConvencionesNet5\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.xml
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\appsettings.Development.json
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\appsettings.json
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.deps.json
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.runtimeconfig.json
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.runtimeconfig.dev.json
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\ref\Convenciones.Api.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.pdb
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Api.xml
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.Identity.Client.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.OpenApi.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Newtonsoft.Json.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Newtonsoft.Json.Bson.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.AspNetCore.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Extensions.Hosting.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Extensions.Logging.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Formatting.Compact.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Settings.Configuration.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.Console.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.Debug.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.File.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.MSSqlServer.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Serilog.Sinks.PeriodicBatching.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Runtime.Caching.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Dal.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Domain.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Service.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Dal.pdb
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Domain.pdb
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Convenciones.Service.pdb
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.AssemblyReference.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.AssemblyInfoInputs.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.AssemblyInfo.cs
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\staticwebassets\Convenciones.Api.StaticWebAssets.Manifest.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\staticwebassets\Convenciones.Api.StaticWebAssets.xml
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\scopedcss\bundle\Convenciones.Api.styles.css
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.RazorTargetAssemblyInfo.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.csproj.CopyComplete
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\ref\Convenciones.Api.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.xml
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.pdb
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\obj\Release\net5.0\linux-x64\Convenciones.Api.genruntimeconfig.cache
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Humanizer.dll
+D:\Proyectos Antonio Salinas\Convenciones Derechos Niños\convencionesNinoasApi\Convenciones\Convenciones.Api\bin\Release\net5.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
